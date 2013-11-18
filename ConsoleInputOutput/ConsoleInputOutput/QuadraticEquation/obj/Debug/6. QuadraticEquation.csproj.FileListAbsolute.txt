@@ -1,0 +1,5 @@
+E:\Telerik\October 2013\Lecture 4\ConsoleInputOutput\ConsoleInputOutput\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
+E:\Telerik\October 2013\Lecture 4\ConsoleInputOutput\ConsoleInputOutput\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+E:\Telerik\October 2013\Lecture 4\ConsoleInputOutput\ConsoleInputOutput\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+E:\Telerik\October 2013\Lecture 4\ConsoleInputOutput\ConsoleInputOutput\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+E:\Telerik\October 2013\Lecture 4\ConsoleInputOutput\ConsoleInputOutput\QuadraticEquation\obj\Debug\QuadraticEquation.pdb

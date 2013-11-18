@@ -1,0 +1,1 @@
+E:\Telerik\October 2013\Lecture 4\ConsoleInputOutput\ConsoleInputOutput\CountDivisibleBy5\bin\Debug\CountDivisibleBy5.exe.config

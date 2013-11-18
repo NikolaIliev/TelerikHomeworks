@@ -1,0 +1,5 @@
+E:\Telerik\October 2013\Lecture 4\ConsoleInputOutput\ConsoleInputOutput\SickSum\bin\Debug\SickSum.exe.config
+E:\Telerik\October 2013\Lecture 4\ConsoleInputOutput\ConsoleInputOutput\SickSum\bin\Debug\SickSum.exe
+E:\Telerik\October 2013\Lecture 4\ConsoleInputOutput\ConsoleInputOutput\SickSum\bin\Debug\SickSum.pdb
+E:\Telerik\October 2013\Lecture 4\ConsoleInputOutput\ConsoleInputOutput\SickSum\obj\Debug\SickSum.exe
+E:\Telerik\October 2013\Lecture 4\ConsoleInputOutput\ConsoleInputOutput\SickSum\obj\Debug\SickSum.pdb

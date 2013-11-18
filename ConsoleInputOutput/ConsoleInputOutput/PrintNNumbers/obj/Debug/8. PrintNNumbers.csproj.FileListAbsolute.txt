@@ -1,0 +1,5 @@
+E:\Telerik\October 2013\Lecture 4\ConsoleInputOutput\ConsoleInputOutput\PrintNNumbers\bin\Debug\PrintNNumbers.exe.config
+E:\Telerik\October 2013\Lecture 4\ConsoleInputOutput\ConsoleInputOutput\PrintNNumbers\bin\Debug\PrintNNumbers.exe
+E:\Telerik\October 2013\Lecture 4\ConsoleInputOutput\ConsoleInputOutput\PrintNNumbers\bin\Debug\PrintNNumbers.pdb
+E:\Telerik\October 2013\Lecture 4\ConsoleInputOutput\ConsoleInputOutput\PrintNNumbers\obj\Debug\PrintNNumbers.exe
+E:\Telerik\October 2013\Lecture 4\ConsoleInputOutput\ConsoleInputOutput\PrintNNumbers\obj\Debug\PrintNNumbers.pdb

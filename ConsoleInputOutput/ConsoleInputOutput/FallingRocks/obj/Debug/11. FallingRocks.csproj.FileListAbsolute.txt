@@ -1,0 +1,12 @@
+E:\Telerik\October 2013\Lecture 4\ConsoleInputOutput\ConsoleInputOutput\FallingRocks\bin\Debug\FallingRocks.exe.config
+E:\Telerik\October 2013\Lecture 4\ConsoleInputOutput\ConsoleInputOutput\FallingRocks\bin\Debug\FallingRocks.exe
+E:\Telerik\October 2013\Lecture 4\ConsoleInputOutput\ConsoleInputOutput\FallingRocks\bin\Debug\FallingRocks.pdb
+E:\Telerik\October 2013\Lecture 4\ConsoleInputOutput\ConsoleInputOutput\FallingRocks\obj\Debug\11. FallingRocks.csprojResolveAssemblyReference.cache
+E:\Telerik\October 2013\Lecture 4\ConsoleInputOutput\ConsoleInputOutput\FallingRocks\obj\Debug\FallingRocks.exe
+E:\Telerik\October 2013\Lecture 4\ConsoleInputOutput\ConsoleInputOutput\FallingRocks\obj\Debug\FallingRocks.pdb
+E:\Telerik\October2013\Lecture4\ConsoleInputOutput\ConsoleInputOutput\FallingRocks\bin\Debug\FallingRocks.exe.config
+E:\Telerik\October2013\Lecture4\ConsoleInputOutput\ConsoleInputOutput\FallingRocks\obj\Debug\FallingRocks.exe
+E:\Telerik\October2013\Lecture4\ConsoleInputOutput\ConsoleInputOutput\FallingRocks\obj\Debug\FallingRocks.pdb
+E:\Telerik\October2013\Lecture4\ConsoleInputOutput\ConsoleInputOutput\FallingRocks\bin\Debug\FallingRocks.exe
+E:\Telerik\October2013\Lecture4\ConsoleInputOutput\ConsoleInputOutput\FallingRocks\bin\Debug\FallingRocks.pdb
+E:\Telerik\October2013\Lecture4\ConsoleInputOutput\ConsoleInputOutput\FallingRocks\obj\Debug\11. FallingRocks.csprojResolveAssemblyReference.cache

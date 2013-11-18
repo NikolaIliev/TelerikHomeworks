@@ -1,0 +1,5 @@
+E:\Telerik\October 2013\Lecture 4\ConsoleInputOutput\ConsoleInputOutput\SumOfN\bin\Debug\SumOfN.exe.config
+E:\Telerik\October 2013\Lecture 4\ConsoleInputOutput\ConsoleInputOutput\SumOfN\bin\Debug\SumOfN.exe
+E:\Telerik\October 2013\Lecture 4\ConsoleInputOutput\ConsoleInputOutput\SumOfN\bin\Debug\SumOfN.pdb
+E:\Telerik\October 2013\Lecture 4\ConsoleInputOutput\ConsoleInputOutput\SumOfN\obj\Debug\SumOfN.exe
+E:\Telerik\October 2013\Lecture 4\ConsoleInputOutput\ConsoleInputOutput\SumOfN\obj\Debug\SumOfN.pdb

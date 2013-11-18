@@ -1,0 +1,6 @@
+E:\Telerik\October 2013\Lecture 4\ConsoleInputOutput\ConsoleInputOutput\Company\bin\Debug\Company.exe.config
+E:\Telerik\October 2013\Lecture 4\ConsoleInputOutput\ConsoleInputOutput\Company\bin\Debug\Company.exe
+E:\Telerik\October 2013\Lecture 4\ConsoleInputOutput\ConsoleInputOutput\Company\bin\Debug\Company.pdb
+E:\Telerik\October 2013\Lecture 4\ConsoleInputOutput\ConsoleInputOutput\Company\obj\Debug\3. Company.csprojResolveAssemblyReference.cache
+E:\Telerik\October 2013\Lecture 4\ConsoleInputOutput\ConsoleInputOutput\Company\obj\Debug\Company.exe
+E:\Telerik\October 2013\Lecture 4\ConsoleInputOutput\ConsoleInputOutput\Company\obj\Debug\Company.pdb

@@ -1,0 +1,6 @@
+E:\Telerik\October 2013\Lecture 4\ConsoleInputOutput\ConsoleInputOutput\PerimeterAreaOfCircle\bin\Debug\PerimeterAreaOfCircle.exe.config
+E:\Telerik\October 2013\Lecture 4\ConsoleInputOutput\ConsoleInputOutput\PerimeterAreaOfCircle\bin\Debug\PerimeterAreaOfCircle.exe
+E:\Telerik\October 2013\Lecture 4\ConsoleInputOutput\ConsoleInputOutput\PerimeterAreaOfCircle\bin\Debug\PerimeterAreaOfCircle.pdb
+E:\Telerik\October 2013\Lecture 4\ConsoleInputOutput\ConsoleInputOutput\PerimeterAreaOfCircle\obj\Debug\2. PerimeterAreaOfCircle.csprojResolveAssemblyReference.cache
+E:\Telerik\October 2013\Lecture 4\ConsoleInputOutput\ConsoleInputOutput\PerimeterAreaOfCircle\obj\Debug\PerimeterAreaOfCircle.exe
+E:\Telerik\October 2013\Lecture 4\ConsoleInputOutput\ConsoleInputOutput\PerimeterAreaOfCircle\obj\Debug\PerimeterAreaOfCircle.pdb
